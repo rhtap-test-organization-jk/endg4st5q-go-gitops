@@ -1,0 +1,6 @@
+apiVersion: "pipelinesascode.tekton.dev/v1alpha1"
+kind: Repository
+metadata:
+  name: endg4st5q-go-gitops-repository
+spec:
+  url: https://github.com/rhtap-test-organization-jk/endg4st5q-go-gitops
